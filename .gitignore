@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/packages
+/Umbraco7140/App_Data/Logs
+/Umbraco7140/App_Data/NuGetBackup
+/Umbraco7140/App_Data/TEMP
+/Umbraco7140/bin
+/Umbraco7140/obj/Debug
+/Umbraco7140/Umbraco
+/Umbraco7140/Umbraco_Client
